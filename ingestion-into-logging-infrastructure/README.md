@@ -1,7 +1,4 @@
-
-# Introduction for my assignment SAWIT PRO
-
-- cd ingestion-into-logging-infrastructure
+# Introduction for my assigment SAWIT PRO
 
 flow for using this scripts command :
 

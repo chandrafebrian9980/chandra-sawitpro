@@ -1,0 +1,3 @@
+flow for running this scripts using python command :
+- python main.py
+- so my scripts will convert file "sample.log" to be auto generate result file json = transformed_metrics.json
